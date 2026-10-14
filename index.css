@@ -1,0 +1,52 @@
+.main{
+    width: 40%;
+    background-color:azure;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+}
+img{
+    width: 70%;
+    margin-bottom: 20px;
+}
+.h2{
+    font-family: 'Cairo', sans-serif;
+    font-size: 70px;
+  
+}
+input{
+    margin-bottom: 10px;
+    width: 50%;
+    padding: 3px;
+    font-family: 'Cairo', 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+    border: none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #1f9e1a;
+    cursor: pointer;
+    font-family: 'Cairo', sans-serif;
+    margin-bottom: 15px;
+}
+label{
+    padding: 10px;
+    width: 40%;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #65f0af;
+    font-family: 'Cairo', sans-serif;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:tomato;
+    font-family: 'Cairo', sans-serif;
+    font-weight: bold;
+
+}
